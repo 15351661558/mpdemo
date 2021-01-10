@@ -1,0 +1,2 @@
+1610253113872|1|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/mpdemo?useUnicode=true&characterEncoding=utf8|SELECT  id,name,age,address  FROM t_user|SELECT  id,name,age,address  FROM t_user
+1610253150291|8|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/mpdemo?useUnicode=true&characterEncoding=utf8|SELECT  id,username AS name,age,address  FROM t_user|SELECT  id,username AS name,age,address  FROM t_user
